@@ -16,16 +16,16 @@ layout_style: ROWS
 # not remove the property.
 
 # Integer: Spacing between each photo
-spacing: 10
+spacing: 12
 
 # Boolean(true|false): Shuffle the photos in the album
-shuffle: false
+shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 3
 
 # Integer: Max height for rows
-max_height: 400
+max_height: 540
 
 # Handle
 instagram: uma.bharathi
