@@ -1,270 +1,1204 @@
 {
-  "Mockups": [
+  "Travel Photography": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/8f1a73a783ddf538399647956cedebf6.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/8f1a73a783ddf538399647956cedebf6.placeholder.jpg",
+      "path": "./photos/Travel Photography/8f1a73a783ddf538399647956cedebf6.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/e1369c2214beb31717c8aa469f56b5e0.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e1369c2214beb31717c8aa469f56b5e0.placeholder.jpg",
+      "path": "./photos/Travel Photography/e1369c2214beb31717c8aa469f56b5e0.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/e8262d80609de31422e0371bb4e1e9f2.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e8262d80609de31422e0371bb4e1e9f2.placeholder.jpg",
+      "path": "./photos/Travel Photography/e8262d80609de31422e0371bb4e1e9f2.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/0f1b8d171155cd7d37b9f13f0fcae489.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0f1b8d171155cd7d37b9f13f0fcae489.placeholder.jpg",
+      "path": "./photos/Travel Photography/0f1b8d171155cd7d37b9f13f0fcae489.jpg"
+    },
+    {
+      "height": 1151,
+      "compressed_path": "./photos/Travel Photography/72d947f8df61e0ee6bd3a485811e84a8.min.jpg",
+      "width": 1043,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/72d947f8df61e0ee6bd3a485811e84a8.placeholder.jpg",
+      "path": "./photos/Travel Photography/72d947f8df61e0ee6bd3a485811e84a8.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/6ad097dc6c53ca0c37a001618e0a61f4.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/6ad097dc6c53ca0c37a001618e0a61f4.placeholder.jpg",
+      "path": "./photos/Travel Photography/6ad097dc6c53ca0c37a001618e0a61f4.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/b800c70fdd12abb02b699bf95c1a57ed.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b800c70fdd12abb02b699bf95c1a57ed.placeholder.jpg",
+      "path": "./photos/Travel Photography/b800c70fdd12abb02b699bf95c1a57ed.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/d1b795fbc7707c6ede4d9f87be1229c3.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d1b795fbc7707c6ede4d9f87be1229c3.placeholder.jpg",
+      "path": "./photos/Travel Photography/d1b795fbc7707c6ede4d9f87be1229c3.jpg"
+    },
+    {
+      "height": 1194,
+      "compressed_path": "./photos/Travel Photography/10f85697b0e70ba0f3409718dd26b8a3.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/10f85697b0e70ba0f3409718dd26b8a3.placeholder.jpg",
+      "path": "./photos/Travel Photography/10f85697b0e70ba0f3409718dd26b8a3.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/4d7dbee5c8e03b232fc1b030ce4da9c4.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/4d7dbee5c8e03b232fc1b030ce4da9c4.placeholder.jpg",
+      "path": "./photos/Travel Photography/4d7dbee5c8e03b232fc1b030ce4da9c4.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/d016b9506953a7a8f2810cfe2277f7b2.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d016b9506953a7a8f2810cfe2277f7b2.placeholder.jpg",
+      "path": "./photos/Travel Photography/d016b9506953a7a8f2810cfe2277f7b2.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/3350f4a833dd882ea1d4bc4f36aaa8b2.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/3350f4a833dd882ea1d4bc4f36aaa8b2.placeholder.jpg",
+      "path": "./photos/Travel Photography/3350f4a833dd882ea1d4bc4f36aaa8b2.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/97d9291cf26ddd0a25b4b818bf6f7bbb.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/97d9291cf26ddd0a25b4b818bf6f7bbb.placeholder.jpg",
+      "path": "./photos/Travel Photography/97d9291cf26ddd0a25b4b818bf6f7bbb.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/dc0cfb164087137986899a5e0b2e55b5.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/dc0cfb164087137986899a5e0b2e55b5.placeholder.jpg",
+      "path": "./photos/Travel Photography/dc0cfb164087137986899a5e0b2e55b5.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/372469a46707459fadb6ea312b48e037.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/372469a46707459fadb6ea312b48e037.placeholder.jpg",
+      "path": "./photos/Travel Photography/372469a46707459fadb6ea312b48e037.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/3f425ff6486ee3a059990b775448fc82.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/3f425ff6486ee3a059990b775448fc82.placeholder.jpg",
+      "path": "./photos/Travel Photography/3f425ff6486ee3a059990b775448fc82.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/955c1158a3db3bb8f73a0ea312d7094d.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/955c1158a3db3bb8f73a0ea312d7094d.placeholder.jpg",
+      "path": "./photos/Travel Photography/955c1158a3db3bb8f73a0ea312d7094d.jpg"
+    },
+    {
+      "height": 784,
+      "compressed_path": "./photos/Travel Photography/3679a3feda35829e4f1b72badf7f0ea9.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/3679a3feda35829e4f1b72badf7f0ea9.placeholder.jpg",
+      "path": "./photos/Travel Photography/3679a3feda35829e4f1b72badf7f0ea9.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/2ea0f5f3c029c2f64c00cf84f07757f3.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/2ea0f5f3c029c2f64c00cf84f07757f3.placeholder.jpg",
+      "path": "./photos/Travel Photography/2ea0f5f3c029c2f64c00cf84f07757f3.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/c36c841bd22ed31b73fb0fa21caecda6.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/c36c841bd22ed31b73fb0fa21caecda6.placeholder.jpg",
+      "path": "./photos/Travel Photography/c36c841bd22ed31b73fb0fa21caecda6.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/ca1a9349b49c1a9ed74c337ea5be3ae9.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/ca1a9349b49c1a9ed74c337ea5be3ae9.placeholder.jpg",
+      "path": "./photos/Travel Photography/ca1a9349b49c1a9ed74c337ea5be3ae9.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/e68eb263d870f1929c1b2b1026fb90cf.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e68eb263d870f1929c1b2b1026fb90cf.placeholder.jpg",
+      "path": "./photos/Travel Photography/e68eb263d870f1929c1b2b1026fb90cf.jpg"
     },
     {
       "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
+      "compressed_path": "./photos/Travel Photography/01a60f64e457382ea84e6ffa09a49cb5.min.jpg",
       "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/01a60f64e457382ea84e6ffa09a49cb5.placeholder.jpg",
+      "path": "./photos/Travel Photography/01a60f64e457382ea84e6ffa09a49cb5.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/c2448b2adf6996d27918916c7fe8f947.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/c2448b2adf6996d27918916c7fe8f947.placeholder.jpg",
+      "path": "./photos/Travel Photography/c2448b2adf6996d27918916c7fe8f947.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
-    }
-  ],
-  "Travel Photography": [
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/5764900cc1196a836262455f41761857.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/5764900cc1196a836262455f41761857.placeholder.jpg",
+      "path": "./photos/Travel Photography/5764900cc1196a836262455f41761857.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/f83aac802f75a2676156de8fb8f530fa.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/f83aac802f75a2676156de8fb8f530fa.placeholder.jpg",
+      "path": "./photos/Travel Photography/f83aac802f75a2676156de8fb8f530fa.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "height": 862,
+      "compressed_path": "./photos/Travel Photography/72ccd072ac047441a8a89fe8cc129fb3.min.jpg",
+      "width": 862,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/72ccd072ac047441a8a89fe8cc129fb3.placeholder.jpg",
+      "path": "./photos/Travel Photography/72ccd072ac047441a8a89fe8cc129fb3.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/551e07036b562c473f4a941f7e4cf20c.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/551e07036b562c473f4a941f7e4cf20c.placeholder.jpg",
+      "path": "./photos/Travel Photography/551e07036b562c473f4a941f7e4cf20c.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/2952d729ba9d233cad0f25890cdf221a.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/2952d729ba9d233cad0f25890cdf221a.placeholder.jpg",
+      "path": "./photos/Travel Photography/2952d729ba9d233cad0f25890cdf221a.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/b8346618386214c5b6abcef3bbcd15de.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b8346618386214c5b6abcef3bbcd15de.placeholder.jpg",
+      "path": "./photos/Travel Photography/b8346618386214c5b6abcef3bbcd15de.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/e2b0c15684e942e54926746c0543c7e6.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e2b0c15684e942e54926746c0543c7e6.placeholder.jpg",
+      "path": "./photos/Travel Photography/e2b0c15684e942e54926746c0543c7e6.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/90f1cd0d85efb753b597cb8721bc850a.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/90f1cd0d85efb753b597cb8721bc850a.placeholder.jpg",
+      "path": "./photos/Travel Photography/90f1cd0d85efb753b597cb8721bc850a.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/b7493ce73f7053bd2e4fd78bce65de25.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b7493ce73f7053bd2e4fd78bce65de25.placeholder.jpg",
+      "path": "./photos/Travel Photography/b7493ce73f7053bd2e4fd78bce65de25.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/d677d57937ca389354059a6fdbad17dc.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d677d57937ca389354059a6fdbad17dc.placeholder.jpg",
+      "path": "./photos/Travel Photography/d677d57937ca389354059a6fdbad17dc.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/0b0b54c8ee6c93a76c762b77af4c12db.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0b0b54c8ee6c93a76c762b77af4c12db.placeholder.jpg",
+      "path": "./photos/Travel Photography/0b0b54c8ee6c93a76c762b77af4c12db.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/b3adc18fa1d2c3e0f30d1b6e7e5290bc.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b3adc18fa1d2c3e0f30d1b6e7e5290bc.placeholder.jpg",
+      "path": "./photos/Travel Photography/b3adc18fa1d2c3e0f30d1b6e7e5290bc.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/fa698b58be11f1ceda428b431ef8d214.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/fa698b58be11f1ceda428b431ef8d214.placeholder.jpg",
+      "path": "./photos/Travel Photography/fa698b58be11f1ceda428b431ef8d214.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/9c0f1319b671b4edd996afb95ae02ef5.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/9c0f1319b671b4edd996afb95ae02ef5.placeholder.jpg",
+      "path": "./photos/Travel Photography/9c0f1319b671b4edd996afb95ae02ef5.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/4ee01b0065b6405dab74fefa38b935f8.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/4ee01b0065b6405dab74fefa38b935f8.placeholder.jpg",
+      "path": "./photos/Travel Photography/4ee01b0065b6405dab74fefa38b935f8.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "height": 360,
+      "compressed_path": "./photos/Travel Photography/324be7645d984124459976a69e971193.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/324be7645d984124459976a69e971193.placeholder.jpg",
+      "path": "./photos/Travel Photography/324be7645d984124459976a69e971193.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/5bd8a9f4204304de63f342080ccaa32a.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/5bd8a9f4204304de63f342080ccaa32a.placeholder.jpg",
+      "path": "./photos/Travel Photography/5bd8a9f4204304de63f342080ccaa32a.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/27a3da99afd672a2a5f2cfa39d30bb56.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/27a3da99afd672a2a5f2cfa39d30bb56.placeholder.jpg",
+      "path": "./photos/Travel Photography/27a3da99afd672a2a5f2cfa39d30bb56.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "height": 815,
+      "compressed_path": "./photos/Travel Photography/16866ea9a4c0681bb2d1952465f37c33.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/16866ea9a4c0681bb2d1952465f37c33.placeholder.jpg",
+      "path": "./photos/Travel Photography/16866ea9a4c0681bb2d1952465f37c33.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/e93a4963abc12592f773a4cdb178c42f.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e93a4963abc12592f773a4cdb178c42f.placeholder.jpg",
+      "path": "./photos/Travel Photography/e93a4963abc12592f773a4cdb178c42f.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/20093786e2a19fb8afcc98a32bccb3a1.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/20093786e2a19fb8afcc98a32bccb3a1.placeholder.jpg",
+      "path": "./photos/Travel Photography/20093786e2a19fb8afcc98a32bccb3a1.jpg"
     },
     {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/3ec9f73b4fdd8062e01999bb45886ab9.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/3ec9f73b4fdd8062e01999bb45886ab9.placeholder.jpg",
+      "path": "./photos/Travel Photography/3ec9f73b4fdd8062e01999bb45886ab9.jpg"
     },
     {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/78d56672ab890e19c9c243fd2817ecf7.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/78d56672ab890e19c9c243fd2817ecf7.placeholder.jpg",
+      "path": "./photos/Travel Photography/78d56672ab890e19c9c243fd2817ecf7.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/da5a76864d01bdfedbf60c2e923281ef.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/da5a76864d01bdfedbf60c2e923281ef.placeholder.jpg",
+      "path": "./photos/Travel Photography/da5a76864d01bdfedbf60c2e923281ef.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/44d779da5e41755723cd5902b64c9a28.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/44d779da5e41755723cd5902b64c9a28.placeholder.jpg",
+      "path": "./photos/Travel Photography/44d779da5e41755723cd5902b64c9a28.jpg"
     },
     {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
+      "height": 1320,
+      "compressed_path": "./photos/Travel Photography/b9eb523674d144d71fa6cce088764b10.min.jpg",
+      "width": 1056,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b9eb523674d144d71fa6cce088764b10.placeholder.jpg",
+      "path": "./photos/Travel Photography/b9eb523674d144d71fa6cce088764b10.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/b5ad2cd54a337b243dd25930ccdc0825.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b5ad2cd54a337b243dd25930ccdc0825.placeholder.jpg",
+      "path": "./photos/Travel Photography/b5ad2cd54a337b243dd25930ccdc0825.jpg"
     },
     {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/658206768deb348b73f0e66099163911.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/658206768deb348b73f0e66099163911.placeholder.jpg",
+      "path": "./photos/Travel Photography/658206768deb348b73f0e66099163911.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/28d010c7d9db5678ca4d2f151908f582.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/28d010c7d9db5678ca4d2f151908f582.placeholder.jpg",
+      "path": "./photos/Travel Photography/28d010c7d9db5678ca4d2f151908f582.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/92effa9f2f285209018a9ab96dd2b773.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/92effa9f2f285209018a9ab96dd2b773.placeholder.jpg",
+      "path": "./photos/Travel Photography/92effa9f2f285209018a9ab96dd2b773.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/e133bd646b80f4404b5fc45b825321b7.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e133bd646b80f4404b5fc45b825321b7.placeholder.jpg",
+      "path": "./photos/Travel Photography/e133bd646b80f4404b5fc45b825321b7.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/f50c1cf4a368bfe1e1cdaaf0de97d400.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/f50c1cf4a368bfe1e1cdaaf0de97d400.placeholder.jpg",
+      "path": "./photos/Travel Photography/f50c1cf4a368bfe1e1cdaaf0de97d400.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/77d485ee75fd3c5a8eb57aec961b80e2.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/77d485ee75fd3c5a8eb57aec961b80e2.placeholder.jpg",
+      "path": "./photos/Travel Photography/77d485ee75fd3c5a8eb57aec961b80e2.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/bc7840f2c40753f010d00672020f42a6.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/bc7840f2c40753f010d00672020f42a6.placeholder.jpg",
+      "path": "./photos/Travel Photography/bc7840f2c40753f010d00672020f42a6.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/5d6626af6ab18402c580bbdb13ad740b.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/5d6626af6ab18402c580bbdb13ad740b.placeholder.jpg",
+      "path": "./photos/Travel Photography/5d6626af6ab18402c580bbdb13ad740b.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/2736a5e0eee455abddb1e4443dad6f87.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/2736a5e0eee455abddb1e4443dad6f87.placeholder.jpg",
+      "path": "./photos/Travel Photography/2736a5e0eee455abddb1e4443dad6f87.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/000a1b5daeb7438055a0cfb77cf2279f.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/000a1b5daeb7438055a0cfb77cf2279f.placeholder.jpg",
+      "path": "./photos/Travel Photography/000a1b5daeb7438055a0cfb77cf2279f.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/ee0a4d8fd219dd6a819ec32597e315b0.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/ee0a4d8fd219dd6a819ec32597e315b0.placeholder.jpg",
+      "path": "./photos/Travel Photography/ee0a4d8fd219dd6a819ec32597e315b0.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/fa791bf66a8af050f11bd04041999e8f.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/fa791bf66a8af050f11bd04041999e8f.placeholder.jpg",
+      "path": "./photos/Travel Photography/fa791bf66a8af050f11bd04041999e8f.jpg"
+    },
+    {
+      "height": 1252,
+      "compressed_path": "./photos/Travel Photography/74b0914220da74abfe1da8ffc8ab6ac7.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/74b0914220da74abfe1da8ffc8ab6ac7.placeholder.jpg",
+      "path": "./photos/Travel Photography/74b0914220da74abfe1da8ffc8ab6ac7.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/9ceebdedb5e79d0810e1150b9762a13e.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/9ceebdedb5e79d0810e1150b9762a13e.placeholder.jpg",
+      "path": "./photos/Travel Photography/9ceebdedb5e79d0810e1150b9762a13e.jpg"
+    },
+    {
+      "height": 818,
+      "compressed_path": "./photos/Travel Photography/afbc81e14819884997b715f3dc06b357.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/afbc81e14819884997b715f3dc06b357.placeholder.jpg",
+      "path": "./photos/Travel Photography/afbc81e14819884997b715f3dc06b357.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/a8c24dc6f8b7ea9737318f7788ac54c8.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/a8c24dc6f8b7ea9737318f7788ac54c8.placeholder.jpg",
+      "path": "./photos/Travel Photography/a8c24dc6f8b7ea9737318f7788ac54c8.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/0136eb2922ab248cc88e09e16536bda3.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0136eb2922ab248cc88e09e16536bda3.placeholder.jpg",
+      "path": "./photos/Travel Photography/0136eb2922ab248cc88e09e16536bda3.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/a016c9b0e3fb5bee21b0356b94ba7501.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/a016c9b0e3fb5bee21b0356b94ba7501.placeholder.jpg",
+      "path": "./photos/Travel Photography/a016c9b0e3fb5bee21b0356b94ba7501.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/c1e73489838bc3c989467a11a7cd1142.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/c1e73489838bc3c989467a11a7cd1142.placeholder.jpg",
+      "path": "./photos/Travel Photography/c1e73489838bc3c989467a11a7cd1142.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/046c829cea1cfbefd4cfe643820b7b99.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/046c829cea1cfbefd4cfe643820b7b99.placeholder.jpg",
+      "path": "./photos/Travel Photography/046c829cea1cfbefd4cfe643820b7b99.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/f75b1975d08e10f2bd1623adf022de3e.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/f75b1975d08e10f2bd1623adf022de3e.placeholder.jpg",
+      "path": "./photos/Travel Photography/f75b1975d08e10f2bd1623adf022de3e.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/ec8ab9b19444bb8ffb60d49a85fa1849.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/ec8ab9b19444bb8ffb60d49a85fa1849.placeholder.jpg",
+      "path": "./photos/Travel Photography/ec8ab9b19444bb8ffb60d49a85fa1849.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/ff8e444c3a6cd75a0b5c57b0941b91e7.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/ff8e444c3a6cd75a0b5c57b0941b91e7.placeholder.jpg",
+      "path": "./photos/Travel Photography/ff8e444c3a6cd75a0b5c57b0941b91e7.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/ae9bd183cb552aee9464aaa012a6b199.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/ae9bd183cb552aee9464aaa012a6b199.placeholder.jpg",
+      "path": "./photos/Travel Photography/ae9bd183cb552aee9464aaa012a6b199.jpg"
+    },
+    {
+      "height": 762,
+      "compressed_path": "./photos/Travel Photography/e1797e67d8de2f6cee222b6da1504aa8.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e1797e67d8de2f6cee222b6da1504aa8.placeholder.jpg",
+      "path": "./photos/Travel Photography/e1797e67d8de2f6cee222b6da1504aa8.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/a82082651be9a6b9ff45697abe4be653.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/a82082651be9a6b9ff45697abe4be653.placeholder.jpg",
+      "path": "./photos/Travel Photography/a82082651be9a6b9ff45697abe4be653.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/83d602d5c418351d150540f875a29eca.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/83d602d5c418351d150540f875a29eca.placeholder.jpg",
+      "path": "./photos/Travel Photography/83d602d5c418351d150540f875a29eca.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/2cc3c3a034f1adf01b9c3f24cc22f3b4.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/2cc3c3a034f1adf01b9c3f24cc22f3b4.placeholder.jpg",
+      "path": "./photos/Travel Photography/2cc3c3a034f1adf01b9c3f24cc22f3b4.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/dfaf1b178963440ea48d6dc1dd48ef8b.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/dfaf1b178963440ea48d6dc1dd48ef8b.placeholder.jpg",
+      "path": "./photos/Travel Photography/dfaf1b178963440ea48d6dc1dd48ef8b.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/5f2a774af55a49e9e44f69eab80d080d.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/5f2a774af55a49e9e44f69eab80d080d.placeholder.jpg",
+      "path": "./photos/Travel Photography/5f2a774af55a49e9e44f69eab80d080d.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/0d23e8ccd9ecd6bb8cae6907a55b9594.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0d23e8ccd9ecd6bb8cae6907a55b9594.placeholder.jpg",
+      "path": "./photos/Travel Photography/0d23e8ccd9ecd6bb8cae6907a55b9594.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/9764a46779d4415ac681a459721fa34e.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/9764a46779d4415ac681a459721fa34e.placeholder.jpg",
+      "path": "./photos/Travel Photography/9764a46779d4415ac681a459721fa34e.jpg"
+    },
+    {
+      "height": 764,
+      "compressed_path": "./photos/Travel Photography/134eafe809b7316ce4fb39973a838ffd.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/134eafe809b7316ce4fb39973a838ffd.placeholder.jpg",
+      "path": "./photos/Travel Photography/134eafe809b7316ce4fb39973a838ffd.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/f98f719e12b19ebdb45fd3d4d39f89cc.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/f98f719e12b19ebdb45fd3d4d39f89cc.placeholder.jpg",
+      "path": "./photos/Travel Photography/f98f719e12b19ebdb45fd3d4d39f89cc.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/117981e034f39242b87fe467998575b9.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/117981e034f39242b87fe467998575b9.placeholder.jpg",
+      "path": "./photos/Travel Photography/117981e034f39242b87fe467998575b9.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/33d80526f6be93d196b21a20ad0050c8.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/33d80526f6be93d196b21a20ad0050c8.placeholder.jpg",
+      "path": "./photos/Travel Photography/33d80526f6be93d196b21a20ad0050c8.jpg"
+    },
+    {
+      "height": 976,
+      "compressed_path": "./photos/Travel Photography/0bf705ca7448ddae95c3818f9ded3e50.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0bf705ca7448ddae95c3818f9ded3e50.placeholder.jpg",
+      "path": "./photos/Travel Photography/0bf705ca7448ddae95c3818f9ded3e50.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/0d13f43d98951545eb531bd925097e8f.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0d13f43d98951545eb531bd925097e8f.placeholder.jpg",
+      "path": "./photos/Travel Photography/0d13f43d98951545eb531bd925097e8f.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/fe5ce33849e1b2800927244861ae3c1b.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/fe5ce33849e1b2800927244861ae3c1b.placeholder.jpg",
+      "path": "./photos/Travel Photography/fe5ce33849e1b2800927244861ae3c1b.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/Travel Photography/0c925189704dd5364132e20e7e599f52.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/0c925189704dd5364132e20e7e599f52.placeholder.jpg",
+      "path": "./photos/Travel Photography/0c925189704dd5364132e20e7e599f52.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/79100e2590d3f01c5c0a95e1be3e8bb2.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/79100e2590d3f01c5c0a95e1be3e8bb2.placeholder.jpg",
+      "path": "./photos/Travel Photography/79100e2590d3f01c5c0a95e1be3e8bb2.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/96e239bdcd573513542ce4e3f01ffdbe.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/96e239bdcd573513542ce4e3f01ffdbe.placeholder.jpg",
+      "path": "./photos/Travel Photography/96e239bdcd573513542ce4e3f01ffdbe.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/9ca22ccbdae42bbcb2035d7f3b7424fe.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/9ca22ccbdae42bbcb2035d7f3b7424fe.placeholder.jpg",
+      "path": "./photos/Travel Photography/9ca22ccbdae42bbcb2035d7f3b7424fe.jpg"
+    },
+    {
+      "height": 1250,
+      "compressed_path": "./photos/Travel Photography/a52c4dad5e0d860b7ff12af4eb63f798.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/a52c4dad5e0d860b7ff12af4eb63f798.placeholder.jpg",
+      "path": "./photos/Travel Photography/a52c4dad5e0d860b7ff12af4eb63f798.jpg"
+    },
+    {
+      "height": 494,
+      "compressed_path": "./photos/Travel Photography/226e29c0943d0a57e687c8d3f7b8275b.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/226e29c0943d0a57e687c8d3f7b8275b.placeholder.jpg",
+      "path": "./photos/Travel Photography/226e29c0943d0a57e687c8d3f7b8275b.jpg"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/Travel Photography/60de4d0b53be453b990b8bc94046b6aa.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/60de4d0b53be453b990b8bc94046b6aa.placeholder.jpg",
+      "path": "./photos/Travel Photography/60de4d0b53be453b990b8bc94046b6aa.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/32550a5289c3f8e4a8d0f0861e837b75.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/32550a5289c3f8e4a8d0f0861e837b75.placeholder.jpg",
+      "path": "./photos/Travel Photography/32550a5289c3f8e4a8d0f0861e837b75.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/d704cd13f53ae4fafc1b7767d930206a.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d704cd13f53ae4fafc1b7767d930206a.placeholder.jpg",
+      "path": "./photos/Travel Photography/d704cd13f53ae4fafc1b7767d930206a.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/1a1ecbb6175c4338736a73b479cb263a.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/1a1ecbb6175c4338736a73b479cb263a.placeholder.jpg",
+      "path": "./photos/Travel Photography/1a1ecbb6175c4338736a73b479cb263a.jpg"
+    },
+    {
+      "height": 1250,
+      "compressed_path": "./photos/Travel Photography/b5c5141c162d1979dca4f3cb692ef269.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b5c5141c162d1979dca4f3cb692ef269.placeholder.jpg",
+      "path": "./photos/Travel Photography/b5c5141c162d1979dca4f3cb692ef269.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/bb57279e2bdddb811112e160bb56ae33.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/bb57279e2bdddb811112e160bb56ae33.placeholder.jpg",
+      "path": "./photos/Travel Photography/bb57279e2bdddb811112e160bb56ae33.jpg"
+    },
+    {
+      "height": 334,
+      "compressed_path": "./photos/Travel Photography/05aabf4bb4bd0c02b2c38ae59b65937e.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/05aabf4bb4bd0c02b2c38ae59b65937e.placeholder.jpg",
+      "path": "./photos/Travel Photography/05aabf4bb4bd0c02b2c38ae59b65937e.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/a5f3cf297c826e6f136c2c496b37dd31.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/a5f3cf297c826e6f136c2c496b37dd31.placeholder.jpg",
+      "path": "./photos/Travel Photography/a5f3cf297c826e6f136c2c496b37dd31.jpg"
+    },
+    {
+      "height": 1031,
+      "compressed_path": "./photos/Travel Photography/a432554d7ea6b52d9548b04b573944f5.min.jpg",
+      "width": 1031,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/a432554d7ea6b52d9548b04b573944f5.placeholder.jpg",
+      "path": "./photos/Travel Photography/a432554d7ea6b52d9548b04b573944f5.jpg"
+    },
+    {
+      "height": 1252,
+      "compressed_path": "./photos/Travel Photography/bed8e4f58f4a094fe36bbd3b03fd16b7.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/bed8e4f58f4a094fe36bbd3b03fd16b7.placeholder.jpg",
+      "path": "./photos/Travel Photography/bed8e4f58f4a094fe36bbd3b03fd16b7.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/18da6a3bdf74aa7a747a721e8e7ae130.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/18da6a3bdf74aa7a747a721e8e7ae130.placeholder.jpg",
+      "path": "./photos/Travel Photography/18da6a3bdf74aa7a747a721e8e7ae130.jpg"
+    },
+    {
+      "height": 1079,
+      "compressed_path": "./photos/Travel Photography/35390b2ff945d5f69f3ea18b84c6156f.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/35390b2ff945d5f69f3ea18b84c6156f.placeholder.jpg",
+      "path": "./photos/Travel Photography/35390b2ff945d5f69f3ea18b84c6156f.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/29672d0d02ee60cb290512e49f8a8751.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/29672d0d02ee60cb290512e49f8a8751.placeholder.jpg",
+      "path": "./photos/Travel Photography/29672d0d02ee60cb290512e49f8a8751.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/21de70ce813070e5e3bcd84f9ce35b09.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/21de70ce813070e5e3bcd84f9ce35b09.placeholder.jpg",
+      "path": "./photos/Travel Photography/21de70ce813070e5e3bcd84f9ce35b09.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/d34f4f5d486a444f355f76aed4d919ca.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d34f4f5d486a444f355f76aed4d919ca.placeholder.jpg",
+      "path": "./photos/Travel Photography/d34f4f5d486a444f355f76aed4d919ca.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/d1db5a32d3bacd4ab308da39023f3f24.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d1db5a32d3bacd4ab308da39023f3f24.placeholder.jpg",
+      "path": "./photos/Travel Photography/d1db5a32d3bacd4ab308da39023f3f24.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/30d650fdeb672bf74cdfd0f4e89eceef.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/30d650fdeb672bf74cdfd0f4e89eceef.placeholder.jpg",
+      "path": "./photos/Travel Photography/30d650fdeb672bf74cdfd0f4e89eceef.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/6bb45504de782f02307f23683fd91788.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/6bb45504de782f02307f23683fd91788.placeholder.jpg",
+      "path": "./photos/Travel Photography/6bb45504de782f02307f23683fd91788.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/4f3535da3dd1d4ad02b16fe580020492.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/4f3535da3dd1d4ad02b16fe580020492.placeholder.jpg",
+      "path": "./photos/Travel Photography/4f3535da3dd1d4ad02b16fe580020492.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/698b7e68fea9ef79b7763eabcb8b9b48.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/698b7e68fea9ef79b7763eabcb8b9b48.placeholder.jpg",
+      "path": "./photos/Travel Photography/698b7e68fea9ef79b7763eabcb8b9b48.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/b1fb314214939051f34c3cbe631ca45f.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b1fb314214939051f34c3cbe631ca45f.placeholder.jpg",
+      "path": "./photos/Travel Photography/b1fb314214939051f34c3cbe631ca45f.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/dc856774b3f9aa90e6f6fbc6ea281d74.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/dc856774b3f9aa90e6f6fbc6ea281d74.placeholder.jpg",
+      "path": "./photos/Travel Photography/dc856774b3f9aa90e6f6fbc6ea281d74.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/5597790a759c39a91518bd68aeea4878.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/5597790a759c39a91518bd68aeea4878.placeholder.jpg",
+      "path": "./photos/Travel Photography/5597790a759c39a91518bd68aeea4878.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/893a35e5065dcf92b6e6584f9a1c13e9.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/893a35e5065dcf92b6e6584f9a1c13e9.placeholder.jpg",
+      "path": "./photos/Travel Photography/893a35e5065dcf92b6e6584f9a1c13e9.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/d394d8b32abd38db23c2c425d2a19b05.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d394d8b32abd38db23c2c425d2a19b05.placeholder.jpg",
+      "path": "./photos/Travel Photography/d394d8b32abd38db23c2c425d2a19b05.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/18a863c5c8f5aed52d208448c1684c4d.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/18a863c5c8f5aed52d208448c1684c4d.placeholder.jpg",
+      "path": "./photos/Travel Photography/18a863c5c8f5aed52d208448c1684c4d.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/9dcaf673488f366cdb0f2ffdd9e5e190.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/9dcaf673488f366cdb0f2ffdd9e5e190.placeholder.jpg",
+      "path": "./photos/Travel Photography/9dcaf673488f366cdb0f2ffdd9e5e190.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/562b88fc5ef13d4309b650451d3aadb2.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/562b88fc5ef13d4309b650451d3aadb2.placeholder.jpg",
+      "path": "./photos/Travel Photography/562b88fc5ef13d4309b650451d3aadb2.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/8df6fd33afd8a2db3ce6491f6e04a701.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/8df6fd33afd8a2db3ce6491f6e04a701.placeholder.jpg",
+      "path": "./photos/Travel Photography/8df6fd33afd8a2db3ce6491f6e04a701.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/789aca634cad9586a9af9a68c649783c.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/789aca634cad9586a9af9a68c649783c.placeholder.jpg",
+      "path": "./photos/Travel Photography/789aca634cad9586a9af9a68c649783c.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/abff65ff304c7ceb8b217c3fc6da4fc2.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/abff65ff304c7ceb8b217c3fc6da4fc2.placeholder.jpg",
+      "path": "./photos/Travel Photography/abff65ff304c7ceb8b217c3fc6da4fc2.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/c244f6674540dad203a2b5d037ba183a.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/c244f6674540dad203a2b5d037ba183a.placeholder.jpg",
+      "path": "./photos/Travel Photography/c244f6674540dad203a2b5d037ba183a.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/adec66ec43ff838afae14f9597e2e8ec.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/adec66ec43ff838afae14f9597e2e8ec.placeholder.jpg",
+      "path": "./photos/Travel Photography/adec66ec43ff838afae14f9597e2e8ec.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/42f46784d1f14c0715b75fee7d1bef10.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/42f46784d1f14c0715b75fee7d1bef10.placeholder.jpg",
+      "path": "./photos/Travel Photography/42f46784d1f14c0715b75fee7d1bef10.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/f95d02d562c3ad7e94b67ce9a0f5cf6f.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/f95d02d562c3ad7e94b67ce9a0f5cf6f.placeholder.jpg",
+      "path": "./photos/Travel Photography/f95d02d562c3ad7e94b67ce9a0f5cf6f.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/6b4af8cc810dd42fc61662cf85d5327e.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/6b4af8cc810dd42fc61662cf85d5327e.placeholder.jpg",
+      "path": "./photos/Travel Photography/6b4af8cc810dd42fc61662cf85d5327e.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/9d43ad1cb86780231b58ee0fb107287f.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/9d43ad1cb86780231b58ee0fb107287f.placeholder.jpg",
+      "path": "./photos/Travel Photography/9d43ad1cb86780231b58ee0fb107287f.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/ddcd63df715a5acbaa7a9df77c476831.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/ddcd63df715a5acbaa7a9df77c476831.placeholder.jpg",
+      "path": "./photos/Travel Photography/ddcd63df715a5acbaa7a9df77c476831.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/321379155e25933be9133bc7f47033f2.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/321379155e25933be9133bc7f47033f2.placeholder.jpg",
+      "path": "./photos/Travel Photography/321379155e25933be9133bc7f47033f2.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/aeae3a449818495247d76b160f19af5b.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/aeae3a449818495247d76b160f19af5b.placeholder.jpg",
+      "path": "./photos/Travel Photography/aeae3a449818495247d76b160f19af5b.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/4fcdefd76685619c278427faf5e73b9e.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/4fcdefd76685619c278427faf5e73b9e.placeholder.jpg",
+      "path": "./photos/Travel Photography/4fcdefd76685619c278427faf5e73b9e.jpg"
+    },
+    {
+      "height": 500,
+      "compressed_path": "./photos/Travel Photography/3ded81c44536c95825c4394b57fdc5f0.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/3ded81c44536c95825c4394b57fdc5f0.placeholder.jpg",
+      "path": "./photos/Travel Photography/3ded81c44536c95825c4394b57fdc5f0.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/d8ca953f2e88824d82b2d9c0efc03cef.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/d8ca953f2e88824d82b2d9c0efc03cef.placeholder.jpg",
+      "path": "./photos/Travel Photography/d8ca953f2e88824d82b2d9c0efc03cef.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/fda8cf1f529293cd4ca8f631314fe370.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/fda8cf1f529293cd4ca8f631314fe370.placeholder.jpg",
+      "path": "./photos/Travel Photography/fda8cf1f529293cd4ca8f631314fe370.jpg"
+    },
+    {
+      "height": 501,
+      "compressed_path": "./photos/Travel Photography/e71df5061705519555987c4b6647e891.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/e71df5061705519555987c4b6647e891.placeholder.jpg",
+      "path": "./photos/Travel Photography/e71df5061705519555987c4b6647e891.jpg"
+    },
+    {
+      "height": 770,
+      "compressed_path": "./photos/Travel Photography/50d1a8ddf594c9749daa56742238f545.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/50d1a8ddf594c9749daa56742238f545.placeholder.jpg",
+      "path": "./photos/Travel Photography/50d1a8ddf594c9749daa56742238f545.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Travel Photography/887c7967cff476137e6f961b0fab738e.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/887c7967cff476137e6f961b0fab738e.placeholder.jpg",
+      "path": "./photos/Travel Photography/887c7967cff476137e6f961b0fab738e.jpg"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/Travel Photography/4fbfa8cef5ced77eacd5d2f4ec48ac88.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/4fbfa8cef5ced77eacd5d2f4ec48ac88.placeholder.jpg",
+      "path": "./photos/Travel Photography/4fbfa8cef5ced77eacd5d2f4ec48ac88.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/c6760ec3447b4b3eeb596b98835ce74e.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/c6760ec3447b4b3eeb596b98835ce74e.placeholder.jpg",
+      "path": "./photos/Travel Photography/c6760ec3447b4b3eeb596b98835ce74e.jpg"
+    },
+    {
+      "height": 817,
+      "compressed_path": "./photos/Travel Photography/b3559fb4168ac738bbd982cad6a1be3a.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/b3559fb4168ac738bbd982cad6a1be3a.placeholder.jpg",
+      "path": "./photos/Travel Photography/b3559fb4168ac738bbd982cad6a1be3a.jpg"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/Travel Photography/205af343e986915b47eb1c66730c5533.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/205af343e986915b47eb1c66730c5533.placeholder.jpg",
+      "path": "./photos/Travel Photography/205af343e986915b47eb1c66730c5533.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Travel Photography/4676207b7f29aa9c6deec9e12361d732.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/4676207b7f29aa9c6deec9e12361d732.placeholder.jpg",
+      "path": "./photos/Travel Photography/4676207b7f29aa9c6deec9e12361d732.jpg"
+    },
+    {
+      "height": 810,
+      "compressed_path": "./photos/Travel Photography/26168a2e8943a1461d3b4ff87b2b6f21.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/26168a2e8943a1461d3b4ff87b2b6f21.placeholder.jpg",
+      "path": "./photos/Travel Photography/26168a2e8943a1461d3b4ff87b2b6f21.jpg"
+    },
+    {
+      "height": 481,
+      "compressed_path": "./photos/Travel Photography/1a758c8d033327e5c8435c6c39b04210.min.jpg",
+      "width": 750,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/1a758c8d033327e5c8435c6c39b04210.placeholder.jpg",
+      "path": "./photos/Travel Photography/1a758c8d033327e5c8435c6c39b04210.jpg"
     }
   ]
 }
