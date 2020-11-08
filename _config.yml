@@ -22,10 +22,10 @@ spacing: 12
 shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 2
+columns: 3
 
 # Integer: Max height for rows
-max_height: 540
+max_height: 400
 
 # Handle
 instagram: uma.bharathi
