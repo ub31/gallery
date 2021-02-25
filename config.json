@@ -289,12 +289,28 @@
       "path": "./photos/Travel Photography/fa698b58be11f1ceda428b431ef8d214.jpg"
     },
     {
+      "height": 3024,
+      "compressed_path": "./photos/Travel Photography/PXL_20210215_232858691.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/PXL_20210215_232858691.placeholder.jpg",
+      "path": "./photos/Travel Photography/PXL_20210215_232858691.jpg"
+    },
+    {
       "height": 1080,
       "compressed_path": "./photos/Travel Photography/9c0f1319b671b4edd996afb95ae02ef5.min.jpg",
       "width": 1080,
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/9c0f1319b671b4edd996afb95ae02ef5.placeholder.jpg",
       "path": "./photos/Travel Photography/9c0f1319b671b4edd996afb95ae02ef5.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Travel Photography/PXL_20210215_233824463.MP.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/PXL_20210215_233824463.MP.placeholder.jpg",
+      "path": "./photos/Travel Photography/PXL_20210215_233824463.MP.jpg"
     },
     {
       "height": 360,
@@ -705,6 +721,14 @@
       "path": "./photos/Travel Photography/a52c4dad5e0d860b7ff12af4eb63f798.jpg"
     },
     {
+      "height": 3024,
+      "compressed_path": "./photos/Travel Photography/PXL_20210215_234227798.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/PXL_20210215_234227798.placeholder.jpg",
+      "path": "./photos/Travel Photography/PXL_20210215_234227798.jpg"
+    },
+    {
       "height": 494,
       "compressed_path": "./photos/Travel Photography/226e29c0943d0a57e687c8d3f7b8275b.min.jpg",
       "width": 750,
@@ -975,6 +999,14 @@
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/6b4af8cc810dd42fc61662cf85d5327e.placeholder.jpg",
       "path": "./photos/Travel Photography/6b4af8cc810dd42fc61662cf85d5327e.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Travel Photography/PXL_20210215_233011849.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/PXL_20210215_233011849.placeholder.jpg",
+      "path": "./photos/Travel Photography/PXL_20210215_233011849.jpg"
     },
     {
       "height": 500,
